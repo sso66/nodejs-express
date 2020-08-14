@@ -1,2 +1,2 @@
 # nodejs-express
-Express in Node.js
+Using Express to Make Life Easier by Brad Daley
